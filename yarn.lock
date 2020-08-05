@@ -3,11 +3,11 @@
 
 
 "@lhci/server@0.4.x":
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/@lhci/server/-/server-0.4.2.tgz#16c2169662d1c457dfd681cd23c712880711d206"
-  integrity sha512-uGlJ4a2nm2U2cinQ+PUJKNzGSqcS3j0XC8UxcLHB61tjWQX2CHrgrrgMaM4ptxZuPk0nisylp6hrpY3mIESkCA==
+  version "0.4.4"
+  resolved "https://registry.yarnpkg.com/@lhci/server/-/server-0.4.4.tgz#58c326c420b0f1e142130a29f4bdd4bd54f60002"
+  integrity sha512-STnTO3nUsYnYK0le40x/SK/HaNGlMAd+pSBa497Vzna785yhc8AecBEUxMkg3z2KfY/MZRSia9Yux1UkCpz6lg==
   dependencies:
-    "@lhci/utils" "0.4.2"
+    "@lhci/utils" "0.4.4"
     body-parser "^1.18.3"
     compression "^1.7.4"
     cron "^1.8.2"
@@ -19,10 +19,10 @@
     umzug "^2.2.0"
     uuid "^3.3.2"
 
-"@lhci/utils@0.4.2":
-  version "0.4.2"
-  resolved "https://registry.yarnpkg.com/@lhci/utils/-/utils-0.4.2.tgz#6323b3b82700e5a5cdf6e9f4ad205412c3f342e2"
-  integrity sha512-d9u/PltBAqtc74+oNDay/8SwgNoAbI0HPThLPopRlz67QQIkGQvPaOmUw2IyrpnwN4ulBMUjjM4xHfWgi5fC2g==
+"@lhci/utils@0.4.4":
+  version "0.4.4"
+  resolved "https://registry.yarnpkg.com/@lhci/utils/-/utils-0.4.4.tgz#3a36a1f1a4195b5529192bb9f059af905b1918b0"
+  integrity sha512-sEkxKYEVhy5kwwUhynPEsknHJy/PKfLTPF7j8YISz7ZO6w1iuQVZV691awOM3r4/x79vpEWpFRqPho6gdBJp1w==
   dependencies:
     isomorphic-fetch "^2.2.1"
     js-yaml "^3.13.1"
