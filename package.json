@@ -4,10 +4,7 @@
   "main": "server.js",
   "dependencies": {
     "@lhci/server": "0.7.x",
-    "pg": "^8.5.1",
+    "pg": "^8.2.1",
     "pg-hstore": "^2.3.3"
-  },
-  "engines": {
-    "node": "12.x"
   }
 }
