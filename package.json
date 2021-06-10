@@ -5,7 +5,7 @@
     "dependencies": {
         "@lhci/server": "0.7.x",
         "pg": "^7.12.1",
-        "pg-hstore": "^2.3.3"
+        "pg-hstore": "^2.3.4"
     },
     "engines": {
         "node": "12.x"
